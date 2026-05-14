@@ -1,7 +1,7 @@
 # Maglev with Camera
 These codes are for using a machine vision camera to do magnetic levitation.
 ## Part of Hardware
-Raspberry pi 4B or 5, HT-SUA33GM-T1V-C(https://www.huatengvision.com/product/195/), ADS1115.
+Raspberry pi 4B or 5, HT-SUA33GM-T1V-C(https://www.huatengvision.com/product/195/), ADS1115, INA240 A2.
 ## Implenment Detail
 1. Install the preemptRT for your Raspberry pi.
 2. Install the linux SDK for HT-SUA33GM-T1V-C.
